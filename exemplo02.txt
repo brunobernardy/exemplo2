@@ -1,3 +1,9 @@
 "Este ‚ o exemplo02" 
 Também alterado pelo clonegit.
 Mais uma edição, pra testar a sincronização.
+
+
+
+
+
+"Este é um novo conteudo da linha 8."
