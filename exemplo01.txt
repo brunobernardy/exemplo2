@@ -1,1 +1,2 @@
 "Este ‚ o exemplo01" 
+Alterado pelo clone git.
