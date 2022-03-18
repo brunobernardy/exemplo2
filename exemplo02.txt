@@ -1,3 +1,4 @@
 "Este ‚ o exemplo02" 
 Também alterado pelo clonegit.
 Mais uma edição, pra testar a sincronização.
+"este é o conteúdo da linha 5"
