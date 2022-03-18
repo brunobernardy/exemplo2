@@ -1,2 +1,3 @@
 "Este ‚ o exemplo02" 
 Também alterado pelo clonegit.
+Mais uma edição, pra testar a sincronização.
